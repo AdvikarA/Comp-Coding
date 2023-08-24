@@ -1,0 +1,86 @@
+color: 1 canvas[i] 1 1 4 1
+color: 1 minX 2 minY 1 maxX 2 maxY 1
+color: 1 minX 2 minY 1 maxX 2 maxY 1
+color: 1 minX 2 minY 1 maxX 2 maxY 1
+color: 1 minX 2 minY 1 maxX 2 maxY 1
+color: 1 canvas[i] 1 5 4 2
+color: 1 minX 2 minY 1 maxX 2 maxY 2
+color: 1 minX 2 minY 1 maxX 2 maxY 2
+color: 1 minX 2 minY 1 maxX 2 maxY 2
+color: 1 minX 2 minY 1 maxX 2 maxY 2
+color: 1 canvas[i] 1 9 4 3
+color: 1 minX 2 minY 1 maxX 2 maxY 3
+color: 1 minX 2 minY 1 maxX 2 maxY 3
+color: 1 minX 2 minY 1 maxX 2 maxY 3
+color: 1 minX 2 minY 1 maxX 2 maxY 3
+color: 1 canvas[i] 1 13 4 4
+color: 1 minX 2 minY 1 maxX 2 maxY 4
+color: 1 minX 2 minY 1 maxX 2 maxY 4
+color: 1 minX 2 minY 1 maxX 2 maxY 4
+color: 1 minX 2 minY 1 maxX 2 maxY 4
+color: 2 minX 5 minY 5 maxX 1 maxY 1
+color: 2 canvas[i] 2 2 4 1
+color: 2 minX 3 minY 1 maxX 3 maxY 1
+color: 2 minX 3 minY 1 maxX 3 maxY 1
+color: 2 minX 3 minY 1 maxX 3 maxY 1
+color: 2 minX 3 minY 1 maxX 3 maxY 1
+color: 2 canvas[i] 2 6 4 2
+color: 2 minX 3 minY 1 maxX 3 maxY 2
+color: 2 minX 3 minY 1 maxX 3 maxY 2
+color: 2 minX 3 minY 1 maxX 3 maxY 2
+color: 2 minX 3 minY 1 maxX 3 maxY 2
+color: 2 canvas[i] 2 10 4 3
+color: 2 minX 3 minY 1 maxX 3 maxY 3
+color: 2 minX 3 minY 1 maxX 3 maxY 3
+color: 2 minX 3 minY 1 maxX 3 maxY 3
+color: 2 minX 3 minY 1 maxX 3 maxY 3
+color: 2 minX 3 minY 1 maxX 3 maxY 3
+color: 2 minX 3 minY 1 maxX 3 maxY 3
+color: 2 minX 3 minY 1 maxX 3 maxY 3
+color: 3 minX 5 minY 5 maxX 1 maxY 1
+color: 3 minX 5 minY 5 maxX 1 maxY 1
+color: 3 canvas[i] 3 3 4 1
+color: 3 minX 4 minY 1 maxX 4 maxY 1
+color: 3 minX 4 minY 1 maxX 4 maxY 1
+color: 3 minX 4 minY 1 maxX 4 maxY 1
+color: 3 minX 4 minY 1 maxX 4 maxY 1
+color: 3 canvas[i] 3 7 4 2
+color: 3 minX 4 minY 1 maxX 4 maxY 2
+color: 3 minX 4 minY 1 maxX 4 maxY 2
+color: 3 minX 4 minY 1 maxX 4 maxY 2
+color: 3 minX 4 minY 1 maxX 4 maxY 2
+color: 3 canvas[i] 3 11 4 3
+color: 3 minX 4 minY 1 maxX 4 maxY 3
+color: 3 minX 4 minY 1 maxX 4 maxY 3
+color: 3 minX 4 minY 1 maxX 4 maxY 3
+color: 3 canvas[i] 3 14 4 4
+color: 3 minX 3 minY 1 maxX 4 maxY 4
+color: 3 canvas[i] 3 15 4 4
+color: 3 minX 3 minY 1 maxX 4 maxY 4
+color: 3 minX 3 minY 1 maxX 4 maxY 4
+color: 4 minX 5 minY 5 maxX 1 maxY 1
+color: 4 minX 5 minY 5 maxX 1 maxY 1
+color: 4 minX 5 minY 5 maxX 1 maxY 1
+color: 4 canvas[i] 4 4 4 2
+color: 4 minX 1 minY 2 maxX 1 maxY 2
+color: 4 minX 1 minY 2 maxX 1 maxY 2
+color: 4 minX 1 minY 2 maxX 1 maxY 2
+color: 4 minX 1 minY 2 maxX 1 maxY 2
+color: 4 canvas[i] 4 8 4 3
+color: 4 minX 1 minY 2 maxX 1 maxY 3
+color: 4 minX 1 minY 2 maxX 1 maxY 3
+color: 4 minX 1 minY 2 maxX 1 maxY 3
+color: 4 minX 1 minY 2 maxX 1 maxY 3
+color: 4 canvas[i] 4 12 4 4
+color: 4 minX 1 minY 2 maxX 1 maxY 4
+color: 4 minX 1 minY 2 maxX 1 maxY 4
+color: 4 minX 1 minY 2 maxX 1 maxY 4
+color: 4 minX 1 minY 2 maxX 1 maxY 4
+color: 4 minX 1 minY 2 maxX 1 maxY 4
+1is/is not  4
+1is/is not  4
+1is/is not  4
+2is/is not  4
+2is/is not  4
+3is/is not  4
+4
